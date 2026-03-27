@@ -1,7 +1,9 @@
+import Login from "./pages/Login";
+
 function App() {
   return (
     <div>
-      <h1>AI Career Copilot 🚀</h1>
+      <Login />
     </div>
   );
 }
